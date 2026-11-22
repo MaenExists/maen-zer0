@@ -28,7 +28,7 @@ Research date: 2026-11-05. Sources below are manufacturer and project documentat
 2. Country and legal band/conditions, before choosing a radio module or transmitting. Time zone alone does not establish jurisdiction.
 3. Budget and preferred stores; no specific prices or purchasing links have been verified.
 4. Specific breakout schematics, pull-up voltage, pin order, library compatibility, and test-tag format.
-5. Desired emphasis: IR remote, NFC learning, radio experiments, portability, or all of these. Full Flipper feature equivalence is not an established goal or feasible assumption.
+5. Prioritization and specific protocols for the target capabilities in the project checklist. Flipper-like breadth is the goal, but feature equivalence depends on hardware and protocol support and has not been established.
 6. Firmware implementation, physical measurements, battery/power-path design, enclosure, and all integrated tests remain future work.
 
 ## Verification status
